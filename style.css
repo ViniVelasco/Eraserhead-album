@@ -3,7 +3,7 @@ body {
 }
 
 h1 {
-	margin-top: -0.15em;
+	margin-top: 0.20em;
 	font-size: 2.6em;
 
 }
@@ -20,6 +20,7 @@ h1, h3 {
 
 #album {
 	margin: auto;
+	margin-bottom: 1em;
 	
 }
 
