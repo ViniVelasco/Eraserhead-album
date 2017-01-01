@@ -1,0 +1,33 @@
+body {
+	background-color: #B1B1B1;
+}
+
+h1 {
+	margin-top: -0.15em;
+	font-size: 2.6em;
+
+}
+
+h3 {
+	margin-top: -1em;
+	font-size: 1.4em;
+}
+
+h1, h3 {
+	text-align: center;
+	font-family: Montserrat;
+}
+
+#album {
+	margin: auto;
+	
+}
+
+img {
+	display: block;
+}
+
+td {
+	padding: 0;
+	border: 5px solid #191414;
+}
